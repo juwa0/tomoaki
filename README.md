@@ -1,6 +1,6 @@
 AI Fashion Stylist ✨🧥👟
 
-Your playful, green-glowing, AI-powered stylist that helps you build outfits for any vibe or event. Ask anything like “date night in fall” or “streetwear with blue jeans,” and get friendly, readable recommendations.
+Your fun and useful AI-powered stylist that helps you build outfits for any vibe or event. Ask anything like “date night in fall” or “streetwear with blue jeans,” and get friendly, readable recommendations.
 
 ## Features
 - **Conversational recommendations**: Plain-English suggestions, not clunky labels.
